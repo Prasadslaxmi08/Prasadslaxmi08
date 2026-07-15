@@ -1,6 +1,4 @@
-# Hi, I'm Laxmi Prasad 👋
 
-AI Application Engineer passionate about building production-ready AI systems.
 
 ## About Me
 
